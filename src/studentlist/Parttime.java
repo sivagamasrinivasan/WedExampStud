@@ -11,6 +11,7 @@ package studentlist;
 public class Parttime {
     private int sid;
     private int nofhrs;
+    //coment about branch pull
 
     /**
      * @return the sid
